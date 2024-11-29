@@ -4,6 +4,8 @@
 - Analizar los factores que más impactan la pérdida / Analyze the factors that have the greatest impact on churn.
 - Sacar conclusiones básicas y elaborar recomendaciones para mejorar la atención al cliente / Draw basic conclusions and make recommendations to improve customer service.
 
+Proyecto hecho para TripleTen (Bootcamp online) - Sprint 13. Pronósticos y predicciones / Project completed for TripleTen (Online Bootcamp) - Sprint 13. Forecasts and predictions.
+
 ## Descripción del proyecto / Project description
 La cadena de gimnasios Model Fitness está desarrollando una estrategia de interacción con clientes basada en datos analíticos.
 
